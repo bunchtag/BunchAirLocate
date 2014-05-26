@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0CF83EB2-AA93-44BC-AF6A-A30DD9EC73DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AirLocate</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22030634-3D50-4647-B93D-A2B29ED5F2A1</key>
+		<string>https://github.com/bunchtag/BunchAirLocate.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AirLocate.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22030634-3D50-4647-B93D-A2B29ED5F2A1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bunchtag/BunchAirLocate.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>22030634-3D50-4647-B93D-A2B29ED5F2A1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22030634-3D50-4647-B93D-A2B29ED5F2A1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BunchAirLocate</string>
+		</dict>
+	</array>
+</dict>
+</plist>
