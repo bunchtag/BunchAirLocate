@@ -80,14 +80,15 @@
     // Populate the regions we will range once.
     self.rangedRegions = [[NSMutableDictionary alloc] init];
     
-    for (NSUUID *uuid in [APLDefaults sharedDefaults].supportedProximityUUIDs)
+    /*    for (NSUUID *uuid in [APLDefaults sharedDefaults].supportedProximityUUIDs)
     {
         CLBeaconRegion *region = [[CLBeaconRegion alloc] initWithProximityUUID:uuid identifier:[uuid UUIDString]];
         self.rangedRegions[region] = [NSArray array];
-    }
+    }*/
     
     self.bunchRangedRegions = [[NSMutableDictionary alloc] init];
     BNCHBunchRegion *bunchRegion = [[BNCHBunchRegion alloc] initRegionWithIdentifier:BunchIdentifier];
+//    BNCHBunchRegion *bunchRegion = [[BNCHBunchRegion alloc] initRegionWithMajor:90 minor:91 identifier:@"BunchSampleApp"];
     self.bunchRangedRegions[bunchRegion] = [NSArray array];
 }
 
@@ -146,6 +147,10 @@
 }
 
 #pragma mark - Bunch manager delegate
+-(void)bunchManager:(BNCHBunchManager *)manager rangingBunchesDidFailForRegion:(BNCHBunchRegion *)region withError:(NSError *)error
+{
+    NSLog(@"%@%@:%@:%@",NSStringFromSelector(_cmd), manager, region, error);
+}
 
 - (void)bunchManager:(BNCHBunchManager *)manager didRangeBunches:(NSArray *)beacons inRegion:(BNCHBunchRegion *)region
 {

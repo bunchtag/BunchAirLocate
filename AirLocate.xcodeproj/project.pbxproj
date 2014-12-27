@@ -10,7 +10,9 @@
 		2810897C177C74F20098FCF6 /* APLProgressTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2810897B177C74F20098FCF6 /* APLProgressTableViewCell.m */; };
 		28D68B83177BA8C100461540 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28D68B82177BA8C100461540 /* Main.storyboard */; };
 		28F04CC8177BC6BB00D71779 /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28F04CC7177BC6BB00D71779 /* Media.xcassets */; };
-		78E17A8E18CDE72A004B7704 /* libBunchBeaconSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78E17A8D18CDE72A004B7704 /* libBunchBeaconSDK.a */; };
+		781F488219A140C200509375 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 781F488119A140C200509375 /* AdSupport.framework */; };
+		783BC8F719FE22DB00A2982E /* libBunchBeaconSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 783BC8F619FE22DB00A2982E /* libBunchBeaconSDK.a */; };
+		784932AE19FEC47B001138BD /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 784932AD19FEC47B001138BD /* SystemConfiguration.framework */; };
 		8391982017EB60E30079CA42 /* APLUUIDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8391981F17EB60E30079CA42 /* APLUUIDViewController.m */; };
 		9B03FFB8174FDF2200ED3262 /* APLMonitoringViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B03FFB7174FDF2200ED3262 /* APLMonitoringViewController.m */; };
 		9B20A35B17502258009FC97A /* APLCalibrationBeginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B20A35A17502258009FC97A /* APLCalibrationBeginViewController.m */; };
@@ -34,7 +36,10 @@
 		2810897B177C74F20098FCF6 /* APLProgressTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APLProgressTableViewCell.m; sourceTree = "<group>"; };
 		28D68B82177BA8C100461540 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = en.lproj/Main.storyboard; sourceTree = "<group>"; };
 		28F04CC7177BC6BB00D71779 /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
-		78E17A8D18CDE72A004B7704 /* libBunchBeaconSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBunchBeaconSDK.a; path = "../../../../../Library/Developer/Xcode/DerivedData/BunchBeaconSDK-bgkuysqvzauzkgceysstlhqwgsce/Build/Products/Debug-iphoneos/libBunchBeaconSDK.a"; sourceTree = "<group>"; };
+		781F488119A140C200509375 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		783BC8F619FE22DB00A2982E /* libBunchBeaconSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBunchBeaconSDK.a; path = "../../../../../Library/Developer/Xcode/DerivedData/BunchBeaconSDK-dyjwesoqfzafzqcgyrlruprdosuc/Build/Products/Bunch/Debug-iphoneos/libBunchBeaconSDK.a"; sourceTree = "<group>"; };
+		784932AD19FEC47B001138BD /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		78FAD653199FA20E000ED069 /* AirLocate copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "AirLocate copy-Info.plist"; path = "/Users/Igor/Documents/Programming/iOS/BunchBeaconSDK/BunchAirLocate/AirLocate copy-Info.plist"; sourceTree = "<absolute>"; };
 		8391981E17EB60E30079CA42 /* APLUUIDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APLUUIDViewController.h; sourceTree = "<group>"; };
 		8391981F17EB60E30079CA42 /* APLUUIDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = APLUUIDViewController.m; sourceTree = "<group>"; };
 		9B03FFB6174FDF2200ED3262 /* APLMonitoringViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = APLMonitoringViewController.h; sourceTree = "<group>"; };
@@ -71,10 +76,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				784932AE19FEC47B001138BD /* SystemConfiguration.framework in Frameworks */,
+				781F488219A140C200509375 /* AdSupport.framework in Frameworks */,
 				9B658B0E174EA66900271210 /* CoreBluetooth.framework in Frameworks */,
 				9B658B0C174EA66200271210 /* CoreLocation.framework in Frameworks */,
 				9B59E5B8174E7BF20083A8A5 /* CoreGraphics.framework in Frameworks */,
-				78E17A8E18CDE72A004B7704 /* libBunchBeaconSDK.a in Frameworks */,
+				783BC8F719FE22DB00A2982E /* libBunchBeaconSDK.a in Frameworks */,
 				9B59E5B4174E7BF20083A8A5 /* UIKit.framework in Frameworks */,
 				9B59E5B6174E7BF20083A8A5 /* Foundation.framework in Frameworks */,
 			);
@@ -90,6 +97,7 @@
 				9B59E5B9174E7BF20083A8A5 /* AirLocate */,
 				9B59E5B2174E7BF20083A8A5 /* Frameworks */,
 				9B59E5B1174E7BF20083A8A5 /* Products */,
+				78FAD653199FA20E000ED069 /* AirLocate copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -104,7 +112,9 @@
 		9B59E5B2174E7BF20083A8A5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				78E17A8D18CDE72A004B7704 /* libBunchBeaconSDK.a */,
+				784932AD19FEC47B001138BD /* SystemConfiguration.framework */,
+				783BC8F619FE22DB00A2982E /* libBunchBeaconSDK.a */,
+				781F488119A140C200509375 /* AdSupport.framework */,
 				9B658B0D174EA66900271210 /* CoreBluetooth.framework */,
 				9B658B0B174EA66200271210 /* CoreLocation.framework */,
 				9B59E5B3174E7BF20083A8A5 /* UIKit.framework */,
@@ -158,9 +168,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9B59E5AF174E7BF20083A8A5 /* AirLocate */ = {
+		9B59E5AF174E7BF20083A8A5 /* Bunch Locate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9B59E5CD174E7BF20083A8A5 /* Build configuration list for PBXNativeTarget "AirLocate" */;
+			buildConfigurationList = 9B59E5CD174E7BF20083A8A5 /* Build configuration list for PBXNativeTarget "Bunch Locate" */;
 			buildPhases = (
 				9B59E5AC174E7BF20083A8A5 /* Sources */,
 				9B59E5AD174E7BF20083A8A5 /* Frameworks */,
@@ -170,7 +180,7 @@
 			);
 			dependencies = (
 			);
-			name = AirLocate;
+			name = "Bunch Locate";
 			productName = AirLocate;
 			productReference = 9B59E5B0174E7BF20083A8A5 /* BunchAirLocate.app */;
 			productType = "com.apple.product-type.application";
@@ -206,7 +216,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9B59E5AF174E7BF20083A8A5 /* AirLocate */,
+				9B59E5AF174E7BF20083A8A5 /* Bunch Locate */,
 			);
 		};
 /* End PBXProject section */
@@ -273,7 +283,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: IGOR PARFENOV (YUN94Q44VG)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -310,7 +320,7 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: IGOR PARFENOV (YUN94Q44VG)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -330,18 +340,19 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: IGOR PARFENOV (L495ZTK24L)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AirLocate/AirLocate-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					"\"$(SRCROOT)/../BunchBeaconSDK/Headers\"",
+					"\"$(SRCROOT)/../Bunch/Headers\"",
 				);
 				INFOPLIST_FILE = "AirLocate/AirLocate-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				LIBRARY_SEARCH_PATHS = "$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/BunchBeaconSDK-bgkuysqvzauzkgceysstlhqwgsce/Build/Products/Debug-iphoneos";
-				PRODUCT_NAME = "Bunch$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/../Bunch/Debug-iphoneos";
+				PRODUCT_NAME = BunchAirLocate;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -351,18 +362,19 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: IGOR PARFENOV (L495ZTK24L)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "AirLocate/AirLocate-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					"\"$(SRCROOT)/../BunchBeaconSDK/Headers\"",
+					"\"$(SRCROOT)/../Bunch/Headers\"",
 				);
 				INFOPLIST_FILE = "AirLocate/AirLocate-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
-				LIBRARY_SEARCH_PATHS = "$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/BunchBeaconSDK-bgkuysqvzauzkgceysstlhqwgsce/Build/Products/Release-iphoneos";
-				PRODUCT_NAME = "Bunch$(TARGET_NAME)";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/../Bunch/Debug-iphoneos";
+				PRODUCT_NAME = BunchAirLocate;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -379,7 +391,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9B59E5CD174E7BF20083A8A5 /* Build configuration list for PBXNativeTarget "AirLocate" */ = {
+		9B59E5CD174E7BF20083A8A5 /* Build configuration list for PBXNativeTarget "Bunch Locate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9B59E5CE174E7BF20083A8A5 /* Debug */,

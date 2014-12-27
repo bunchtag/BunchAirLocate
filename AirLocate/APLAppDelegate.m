@@ -74,6 +74,10 @@
     self.bunchManager = [APLDefaults sharedBunchManager];
     self.bunchManager.delegate = self;
     
+    
+    NSLog(@"%@%@", NSStringFromSelector(_cmd), self.locationManager.monitoredRegions);
+    NSLog(@"%@%@", NSStringFromSelector(_cmd), self.locationManager.rangedRegions);
+    
     return YES;
 }
 
@@ -120,12 +124,12 @@
 
 - (void)locationManager:(CLLocationManager *)manager didEnterRegion:(CLRegion *)region
 {
-    NSLog(@"%@%@", NSStringFromSelector(_cmd), region);
+    NSLog(@"%@%@:%@", NSStringFromSelector(_cmd), manager, region);
 }
 
 - (void)locationManager:(CLLocationManager *)manager didExitRegion:(CLRegion *)region
 {
-    NSLog(@"%@%@", NSStringFromSelector(_cmd), region);
+    NSLog(@"%@%@:%@", NSStringFromSelector(_cmd), manager, region);
 }
 
 #pragma mark UIApplicationDelegate
@@ -139,6 +143,12 @@
 }
 
 #pragma mark BNCHBunchManagerDelegate
+
+-(void)bunchManager:(BNCHBunchManager *)manager monitoringDidFailForRegion:(BNCHBunchRegion *)region withError:(NSError *)error
+{
+    NSLog(@"%@%@:%@:%@",NSStringFromSelector(_cmd), manager, region, error);
+}
+
 
 - (void)bunchManager:(BNCHBunchManager *)manager didDetermineState:(CLRegionState)state forRegion:(BNCHBunchRegion *)region
 {

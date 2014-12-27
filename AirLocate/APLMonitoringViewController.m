@@ -51,6 +51,7 @@
 #import "APLUUIDViewController.h"
 #import "BNCHBunchManager.h"
 
+@import AdSupport;
 @import CoreLocation;
 
 
@@ -89,6 +90,20 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    
+    NSString *bundleIdentifier = [[NSBundle mainBundle] bundleIdentifier];
+//    ASIdentifierManager *sharedManager = .
+
+    NSLog(@"bundleIdentifier: %@", bundleIdentifier);
+    NSLog(@"advertisingIdentifier: %@", [ASIdentifierManager sharedManager].advertisingIdentifier);
+    NSLog(@"name: %@", [UIDevice currentDevice].name);
+    NSLog(@"name: %@", [UIDevice currentDevice].systemName);
+    NSLog(@"name: %@", [UIDevice currentDevice].systemVersion);
+    NSLog(@"name: %@", [UIDevice currentDevice].model);
+    NSLog(@"name: %@", [UIDevice currentDevice].identifierForVendor);
+    
+    
     
     //standart CLLocationManager inialization
     //this code is just a sample. it's not required for Bunch

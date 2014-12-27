@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9B59E5AF174E7BF20083A8A5"
                BuildableName = "BunchAirLocate.app"
-               BlueprintName = "AirLocate"
+               BlueprintName = "Bunch Locate"
                ReferencedContainer = "container:AirLocate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,7 +34,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9B59E5AF174E7BF20083A8A5"
             BuildableName = "BunchAirLocate.app"
-            BlueprintName = "AirLocate"
+            BlueprintName = "Bunch Locate"
             ReferencedContainer = "container:AirLocate.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -53,7 +53,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9B59E5AF174E7BF20083A8A5"
             BuildableName = "BunchAirLocate.app"
-            BlueprintName = "AirLocate"
+            BlueprintName = "Bunch Locate"
             ReferencedContainer = "container:AirLocate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -71,7 +71,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9B59E5AF174E7BF20083A8A5"
             BuildableName = "BunchAirLocate.app"
-            BlueprintName = "AirLocate"
+            BlueprintName = "Bunch Locate"
             ReferencedContainer = "container:AirLocate.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

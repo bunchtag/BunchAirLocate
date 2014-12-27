@@ -4,7 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AirLocate.xcscheme</key>
+		<key>Borodich Locate.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Bunch Locate.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>78FAD637199FA20E000ED069</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>9B59E5AF174E7BF20083A8A5</key>
 		<dict>
 			<key>primary</key>

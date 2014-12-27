@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "416153193.759483"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "95"
-            endingLineNumber = "95"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "420635263.30128"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "421777751.890859"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "308"
-            endingLineNumber = "308"
+            startingLineNumber = "323"
+            endingLineNumber = "323"
             landmarkName = "-updateMonitoredRegion"
             landmarkType = "5">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "420635263.30128"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "131"
-            endingLineNumber = "131"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
             landmarkName = "-viewDidLoad"
             landmarkType = "5">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLAppDelegate.m"
-            timestampString = "421776585.154119"
+            timestampString = "424034933.857784"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "150"
-            endingLineNumber = "150"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
             landmarkName = "-bunchManager:didDetermineState:forRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "421777751.890859"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "272"
-            endingLineNumber = "272"
+            startingLineNumber = "287"
+            endingLineNumber = "287"
             landmarkName = "-updateMonitoredRegion"
             landmarkType = "5">
          </BreakpointContent>
@@ -106,11 +106,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "421777751.890859"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "315"
-            endingLineNumber = "315"
+            startingLineNumber = "330"
+            endingLineNumber = "330"
             landmarkName = "-updateMonitoredRegion"
             landmarkType = "5">
          </BreakpointContent>
@@ -122,11 +122,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLRangingViewController.m"
-            timestampString = "421773483.431333"
+            timestampString = "426450482.813456"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "143"
-            endingLineNumber = "143"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "-locationManager:didRangeBeacons:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "421777751.890859"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "265"
-            endingLineNumber = "265"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
             landmarkName = "-updateMonitoredRegion"
             landmarkType = "5">
          </BreakpointContent>
@@ -154,11 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "421777751.890859"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "264"
-            endingLineNumber = "264"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
             landmarkName = "-updateMonitoredRegion"
             landmarkType = "5">
          </BreakpointContent>
@@ -170,11 +170,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLRangingViewController.m"
-            timestampString = "421773483.431333"
+            timestampString = "426450482.813456"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "201"
-            endingLineNumber = "201"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
             landmarkName = "-tableView:cellForRowAtIndexPath:"
             landmarkType = "5">
          </BreakpointContent>
@@ -186,11 +186,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421775711.863402"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "744"
-            endingLineNumber = "744"
+            startingLineNumber = "801"
+            endingLineNumber = "801"
             landmarkName = "-locationManager:didRangeBeacons:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -202,7 +202,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunch.m"
-            timestampString = "421763678.031472"
+            timestampString = "426336666.727908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "+createFromSecuredCLBeacon:forRegion:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BunchBeaconSDK/BNCHBunch.m"
+            timestampString = "426336666.727908"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "163"
@@ -217,28 +233,12 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "../BunchBeaconSDK/BNCHBunch.m"
-            timestampString = "421763678.031472"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "166"
-            endingLineNumber = "166"
-            landmarkName = "+createFromSecuredCLBeacon:forRegion:"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421775711.863402"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "902"
-            endingLineNumber = "902"
+            startingLineNumber = "929"
+            endingLineNumber = "929"
             landmarkName = "-locationManager:didDetermineState:forRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -250,11 +250,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421775711.863402"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "908"
-            endingLineNumber = "908"
+            startingLineNumber = "937"
+            endingLineNumber = "937"
             landmarkName = "-locationManager:didDetermineState:forRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -266,11 +266,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421775711.863402"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "701"
-            endingLineNumber = "701"
+            startingLineNumber = "728"
+            endingLineNumber = "728"
             landmarkName = "-locationManager:didDetermineState:forSimpleRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -282,13 +282,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "420635928.582778"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "160"
-            endingLineNumber = "160"
-            landmarkName = "-startMonitoringForRegion:"
-            landmarkType = "5">
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "@implementation BNCHBunchManager"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -298,11 +298,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "420635936.557267"
+            timestampString = "426336666.727908"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
             landmarkName = "-init"
             landmarkType = "5">
          </BreakpointContent>
@@ -314,11 +314,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421766080.283486"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "599"
-            endingLineNumber = "599"
+            startingLineNumber = "621"
+            endingLineNumber = "621"
             landmarkName = "-locationManager:didRangeSecuredBeacons:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -330,11 +330,27 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421775711.863402"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "728"
-            endingLineNumber = "728"
+            startingLineNumber = "753"
+            endingLineNumber = "753"
+            landmarkName = "-locationManager:didDetermineState:forSecuredRegion:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
+            timestampString = "429998824.680461"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "791"
+            endingLineNumber = "791"
             landmarkName = "-locationManager:didRangeBeacons:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -346,27 +362,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421775711.863402"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "735"
-            endingLineNumber = "735"
-            landmarkName = "-locationManager:didRangeBeacons:inRegion:"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421766080.283486"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "597"
-            endingLineNumber = "597"
+            startingLineNumber = "620"
+            endingLineNumber = "620"
             landmarkName = "-locationManager:didRangeSecuredBeacons:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -378,11 +378,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLRangingViewController.m"
-            timestampString = "421773483.431333"
+            timestampString = "426450482.813456"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "158"
-            endingLineNumber = "158"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
             landmarkName = "-bunchManager:didRangeBunches:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -394,11 +394,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLAppDelegate.m"
-            timestampString = "421776585.154119"
+            timestampString = "424034933.857784"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "153"
-            endingLineNumber = "153"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
             landmarkName = "-bunchManager:didDetermineState:forRegion:"
             landmarkType = "5">
          </BreakpointContent>
@@ -410,13 +410,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AirLocate/APLMonitoringViewController.m"
-            timestampString = "421777751.890859"
+            timestampString = "429998570.643502"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "337"
-            endingLineNumber = "337"
-            landmarkName = "@implementation APLMonitoringViewController"
-            landmarkType = "3">
+            startingLineNumber = "352"
+            endingLineNumber = "352">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -426,12 +424,76 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
-            timestampString = "421777456.738335"
+            timestampString = "429998824.680461"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "186"
-            endingLineNumber = "186"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
             landmarkName = "-startMonitoringForRegion:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirLocate/APLAppDelegate.m"
+            timestampString = "426107576.538951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
+            landmarkName = "-bunchManager:didExitRegion:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirLocate/APLAppDelegate.m"
+            timestampString = "426340755.41174"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "-locationManager:didEnterRegion:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirLocate/APLAppDelegate.m"
+            timestampString = "426340762.076456"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "190"
+            endingLineNumber = "190"
+            landmarkName = "-bunchManager:didEnterRegion:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../BunchBeaconSDK/BNCHBunchManager.m"
+            timestampString = "429998824.680461"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "637"
+            endingLineNumber = "637"
+            landmarkName = "-locationManager:didRangeSecuredBeacons:inRegion:"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
